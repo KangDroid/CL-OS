@@ -35,13 +35,21 @@ Target System
 ==============
 <b><u>Those systems are still planning, things may vary.</u></b>
 
-For Alpha-Testing Device
+For Alpha-Testing Device(1)
 -------------------------
 CPU: i7-9850H<br>
 RAM: DDR4-32GB<br>
 GPU: RTX2060<br>
 P.N: ROG Zephyrus M GU502GV<br>
 OS: Windows 10 Home, WSL2 with Ubuntu 18.04(Insider Preview)<br>
+
+For Alpha-Testing Device(2)
+---------------------------
+CPU: ARM Cortex-A53<br>
+RAM: LPDDR2-1GB<br>
+GPU: Integrated<br>
+P.N: Raspberry Pi 3 B
+OS: Ubuntu Server 18.04(64-bit)<br>
 
 For Private Research-working
 -----------------------------
