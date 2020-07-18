@@ -37,11 +37,11 @@ Target System
 
 For Alpha-Testing Device(1)
 -------------------------
-CPU: i7-9850H<br>
-RAM: DDR4-32GB<br>
-GPU: RTX2060<br>
-P.N: ROG Zephyrus M GU502GV<br>
-OS: Windows 10 Home, WSL2 with Ubuntu 18.04(Insider Preview)<br>
+CPU: i9-9880H<br>
+RAM: DDR4-16GB<br>
+GPU: Amd 5300M<br>
+P.N: MacBook Pro 16"<br>
+OS: macOS Catalina<br>
 
 For Alpha-Testing Device(2)
 ---------------------------
